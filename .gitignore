@@ -1,0 +1,8 @@
+.streamlit/
+__pycache__/
+*.pyc
+.env
+.ENV
+streamlit.stdout.log
+streamlit.stderr.log
+ui-check.png

@@ -1,0 +1,4 @@
+openai>=2.0.0,<3.0.0
+protobuf==6.33.5
+streamlit>=1.40.0,<2.0.0
+truststore>=0.10.0,<1.0.0
